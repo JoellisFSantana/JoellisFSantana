@@ -1,7 +1,7 @@
-<h1 align="center">Olá!👋, meu nome é Joellis Santana</h1>
-<h3 align="left">Estudante Full-Stack Web Developer</h3>
+<img align="right" width="360rem" height="280rem" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Pessoa codando"  />
+<h1 align="center">Olá, seja bem-vindo!</h1>
 <ul>
- <li>🌱Atualmente estou estudando desenvolvimento web na COD3R com o Professor Leonardo Moura Leitão ;</li>
+ <li>🌱Atualmente estou estudando desenvolvimento web na COD3R ;</li>
  <li>💻 Me pergunte sobre desenvolvimento web, ficarei feliz em ajudar ;</li>
  <li>📫 Fale comigo em joellisf@gmail.com ;</li>
  <li>⚡ Curiosidades sobre mim comecei os estudos no desenvolvimento web aos 34 anos.</li>
