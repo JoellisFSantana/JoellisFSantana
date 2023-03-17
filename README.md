@@ -4,7 +4,7 @@
  <li>🌱Atualmente estou estudando desenvolvimento web na COD3R ;</li>
  <li>💻 Me pergunte sobre desenvolvimento web, ficarei feliz em ajudar ;</li>
  <li>📫 Fale comigo em joellisf@gmail.com ;</li>
- <li>⚡ Curiosidade:comecei os estudos no desenvolvimento web aos 34 anos.</li>
+ <li>⚡ Comecei os estudos no desenvolvimento web aos 34 anos.</li>
 </ul>
 
 <details>
