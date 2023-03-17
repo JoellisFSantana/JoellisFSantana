@@ -1,4 +1,4 @@
-<img align="right" width="340rem" height="280rem" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Pessoa codando"  />
+<img align="right" width="320rem" height="280rem" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Pessoa codando"  />
 <h1 align="center">Olá, seja bem-vindo!</h1>
 <ul>
  <li>🌱Atualmente estou estudando desenvolvimento web na COD3R ;</li>
