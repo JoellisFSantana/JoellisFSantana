@@ -2,8 +2,7 @@
 <h1 align="center">Olá, seja bem-vindo!</h1>
 <ul>
  <li>🌱Atualmente estou estudando desenvolvimento web na COD3R ;</li>
- <li>💻 Me pergunte sobre desenvolvimento web, ficarei feliz em ajudar ;</li>
- <li>⚡ Comecei os estudos no desenvolvimento web aos 34 anos.</li>
+ <li>💻 Comecei os estudos no desenvolvimento web aos 34 anos.</li>
 </ul>
 
 <details>
