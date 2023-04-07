@@ -1,7 +1,7 @@
 <img align="right" width="250rem" height="225rem" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Pessoa codando"  />
 <h1 align="center">Olá, seja bem-vindo!</h1>
 <ul>
- <li>🌱Atualmente estou estudando desenvolvimento web na COD3R ;</li>
+ <li>🌱Atualmente estou estudando desenvolvimento web;</li>
  <li>💻 Comecei os estudos no desenvolvimento web aos 34 anos.</li>
 </ul>
 
